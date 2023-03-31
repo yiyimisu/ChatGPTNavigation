@@ -1,6 +1,8 @@
 # ChatGPT免费镜像站点导航
 **ChatGPT导航站，这里收集了许多ChatGPT的镜像站**
-**发布站：** 😀 http://nav.52ai.love（欢迎收藏和分享）
+
+**发布站：** 😀 http://nav.52ai.love  （欢迎收藏和分享）
+
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/yiyimisu/ChatGPTNavigation/issues)告诉我
 
 > <a href="http://nav.52ai.love/static/wxzs/wxds.png" target="_blank"> 👉【🧡打赞我🧡】👈</a>
